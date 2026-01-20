@@ -8,7 +8,7 @@ Actively building projects in data analysis and visualization.
 - **Programming & Querying:** Python, MySQL
 - **Data Analysis:** Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA)
 - **Visualization & Reporting:** Power BI, Excel
-- **Tools & Techniques:** Dashboards, KPIs, Pivot Tables
+- **Tools & Techniques:** Dashboards, Pivot Tables
 
 
 
