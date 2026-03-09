@@ -10,4 +10,4 @@ Actively building projects in data analysis and visualization.
 Analysis
 - **Visualization & Reporting:** Power BI, Excel
 - **Tools & Techniques:** Dashboards, Pivot Tables, Git
-- **Finance Knowledge**: Basic Accounting, P&L, Balance Sheet, Cash Flow Statement, Reconciliatio
+- **Finance Knowledge**: Basic Accounting, P&L, Balance Sheet, Cash Flow Statement, Reconciliation
