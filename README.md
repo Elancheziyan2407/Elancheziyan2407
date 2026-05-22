@@ -1,42 +1,112 @@
-## Hi there, I'm Elancheziyan 👋
+Hi there, I'm Elancheziyan 👋
 
-##🛠️ Core Skills
+🎓 EEE Graduate | Embedded Test & Validation | Data Analytics Enthusiast
+
+Passionate about Embedded Systems, Validation Engineering, Debugging, and Data Analysis.
+Interested in Automotive Electronics, Semiconductor Testing, Hardware-Software Integration, and Engineering Analytics.
+
+🛠️ Core Skills
 🔍 Testing & Validation
-1.Functional Testing
-2.Validation & Verification (V&V)
-3.Test Case Design
-4.Test Case Execution
-5.Root Cause Analysis
-6.Debugging & Troubleshooting
+Functional Testing
+Validation & Verification (V&V)
+Test Case Design & Execution
+Root Cause Analysis
+Debugging & Troubleshooting
+Failure Analysis
 
-##⚙️ Embedded Systems
-1.Arduino, Microcontrollers
-2. Sensor Interfacing
-3.Communication Protocols: UART, SPI, I2C
+⚙️ Embedded Systems
+Arduino & Microcontrollers
+Sensor Interfacing
+Embedded C Basics
+Hardware Debugging
+Communication Protocols: UART, SPI, I2C
+ECU Fundamentals
+CAN Protocol Basics
 
-##📊 Tools & Analysis
-1.Multimeter
-2.Oscilloscope (Basics)
-3.MATLAB / Python
-4.MS Excel (Data Logging & Analysis)
-##💻 Programming
-1.C
-2.Python
+🧪 Lab & Testing Tools
+Multimeter (DMM)
+Oscilloscope (Basics)
+Hardware Validation
+Board-Level Testing
+
+💻 Programming
+C Programming
+Python
+SQL
 
 🧩 Engineering Practices
-1.Technical Documentation
-2.QRQC Methodology 
-3.Continuous Improvement
+Technical Documentation
+QRQC Methodology
+Continuous Improvement
+Problem Solving
+Analytical Thinking
 
-🚗 Automotive Systems & Protocols 
-1.ECU Fundamentals
-2.Sensors in Automotive Systems
-3.CAN Protocol
+🚗 Automotive & Embedded Interests
+Embedded Testing & Validation
+Automotive Electronics
+ECU Testing
+Sensor-Based Systems
+Semiconductor Testing Concepts
+Hardware-Software Integration
 
-##🧪 Testing Approach
+🧪 Testing Approach
 My testing methodology includes:
 Writing basic test scenarios for system validation
-Measuring real-time parameters (Voltage, Current, Temperature)
+Measuring real-time parameters such as Voltage, Current, and Temperature
 Identifying edge cases and failure conditions
 Debugging hardware and communication issues
-Ensuring consistent and reliable system behavior
+Monitoring system behavior and reliability
+Supporting data analysis for validation results
+
+📊 Data Analysis:
+Data Analysis
+Statistical Analysis
+Trend & Pattern Analysis
+Data Interpretation
+Campaign Analytics
+Insights Generation
+
+🗂️ Data Management:
+Data Collection
+Data Cleaning
+Data Validation
+Data Processing
+Data Quality Checks
+Database Management
+📈 Visualization & Reporting
+Dashboard Development
+Data Visualization
+Performance Reporting
+KPI Monitoring
+
+⚙️ Tools & Technologies:
+Advanced Excel
+SQL
+Python
+Power BI
+Pandas
+Matplotlib
+
+🧩 Business & Professional Skills:
+Root Cause Analysis
+Problem Solving
+Process Improvement
+Decision Support
+Stakeholder Collaboration
+Communication Skills
+
+🚀 Projects:
+🔹 Embedded & Validation Projects
+EV Battery Management System
+Fire Protection Monitoring System
+Arduino-Based Sensor Monitoring
+🔹 Data Analytics Projects
+Sales Dashboard using Power BI
+SQL Data Analysis Project
+Python Data Visualization Project
+ 
+📜 Certifications:
+C Programming – Great Learning
+Tesing Fundamentals – Infosys SpringBoard 
+Python for Data Science – NPTEL
+SQL (Intermediate) – HackerRank
