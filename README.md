@@ -6,57 +6,57 @@ Passionate about Embedded Systems, Validation Engineering, Debugging, and Data A
 Interested in Automotive Electronics, Semiconductor Testing, Hardware-Software Integration, and Engineering Analytics.
 
 🛠️ Core Skills
-🔍 Testing & Validation
-Functional Testing
-Validation & Verification (V&V)
-Test Case Design & Execution
-Root Cause Analysis
-Debugging & Troubleshooting
-Failure Analysis
+🔍 Testing & Validation,
+Functional Testing,
+Validation & Verification (V&V),
+Test Case Design & Execution,
+Root Cause Analysis,
+Debugging & Troubleshooting,
+Failure Analysis.
 
-⚙️ Embedded Systems
-Arduino & Microcontrollers
-Sensor Interfacing
-Embedded C Basics
-Hardware Debugging
+⚙️ Embedded Systems:
+Arduino & Microcontrollers,
+Sensor Interfacing,
+Embedded C Basics,
+Hardware Debugging,
 Communication Protocols: UART, SPI, I2C
-ECU Fundamentals
-CAN Protocol Basics
+ECU Fundamentals,
+CAN Protocol Basics.
 
-🧪 Lab & Testing Tools
-Multimeter (DMM)
-Oscilloscope (Basics)
-Hardware Validation
-Board-Level Testing
+🧪 Lab & Testing Tools:
+Multimeter (DMM),
+Oscilloscope (Basics),
+Hardware Validation,
+Board-Level Testing.
 
-💻 Programming
-C Programming
-Python
-SQL
+💻 Programming:
+C Programming,
+Python,
+MYSQL.
 
-🧩 Engineering Practices
-Technical Documentation
-QRQC Methodology
-Continuous Improvement
-Problem Solving
-Analytical Thinking
+🧩 Engineering Practices:
+Technical Documentation,
+QRQC Methodology,
+Continuous Improvement,
+Problem Solving,
+Analytical Thinking.
 
-🚗 Automotive & Embedded Interests
-Embedded Testing & Validation
-Automotive Electronics
-ECU Testing
-Sensor-Based Systems
-Semiconductor Testing Concepts
-Hardware-Software Integration
+🚗 Automotive & Embedded Interests:
+Embedded Testing & Validation,
+Automotive Electronics,
+ECU Testing,
+Sensor-Based Systems,
+Semiconductor Testing Concepts,
+Hardware-Software Integration.
 
-🧪 Testing Approach
+🧪 Testing Approach:
 My testing methodology includes:
-Writing basic test scenarios for system validation
-Measuring real-time parameters such as Voltage, Current, and Temperature
-Identifying edge cases and failure conditions
-Debugging hardware and communication issues
-Monitoring system behavior and reliability
-Supporting data analysis for validation results
+Writing basic test scenarios for system validation,
+Measuring real-time parameters such as Voltage, Current, and Temperature,
+Identifying edge cases and failure conditions,
+Debugging hardware and communication issues,
+Monitoring system behavior and reliability,
+Supporting data analysis for validation results.
 
 📊 Data Analysis:
 Data Analysis
@@ -95,18 +95,3 @@ Decision Support
 Stakeholder Collaboration
 Communication Skills
 
-🚀 Projects:
-🔹 Embedded & Validation Projects
-EV Battery Management System
-Fire Protection Monitoring System
-Arduino-Based Sensor Monitoring
-🔹 Data Analytics Projects
-Sales Dashboard using Power BI
-SQL Data Analysis Project
-Python Data Visualization Project
- 
-📜 Certifications:
-C Programming – Great Learning
-Tesing Fundamentals – Infosys SpringBoard 
-Python for Data Science – NPTEL
-SQL (Intermediate) – HackerRank
