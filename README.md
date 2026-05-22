@@ -1,100 +1,51 @@
-Hi there, I'm Elancheziyan 👋
+👋 Hi, I'm Elancheziyan
 
-🎓 EEE Graduate | Embedded Test & Validation | Data Analysis | Python | C
+🎓 EEE Graduate | Embedded Test & Validation | Data Analyst
+
+💡 About Me
 
 Passionate about Embedded Systems, Validation Engineering, Debugging, and Data Analysis.
-Interested in Automotive Electronics, Semiconductor Testing, Hardware-Software Integration, and Engineering Analytics.
+Interested in Automotive Electronics, Semiconductor Testing, Hardware–Software Integration, and Engineering Analytics.
 
-🛠️ Core Skills:
+🛠️ Core Skills
 
-🔍 Testing & Validation,
-Functional Testing,
-Validation & Verification (V&V),
-Test Case Design & Execution,
-Root Cause Analysis,
-Debugging & Troubleshooting,
-Failure Analysis.
+🔍 Testing & Validation
+Functional Testing • V&V • Test Case Design & Execution • Root Cause Analysis • Debugging • Failure Analysis
 
-⚙️ Embedded Systems:
-Arduino & Microcontrollers,
-Sensor Interfacing,
-Embedded C Basics,
-Hardware Debugging,
-Communication Protocols: UART, SPI, I2C
-ECU Fundamentals,
-CAN Protocol Basics.
+⚙️ Embedded Systems
+Arduino & Microcontrollers • Embedded C Basics • Sensor Interfacing • Hardware Debugging • UART / SPI / I2C • CAN Basics • ECU Fundamentals
 
-🧪 Lab & Testing Tools:
-Multimeter (DMM),
-Oscilloscope (Basics),
-Hardware Validation,
-Board-Level Testing,
-Jira.  
+🧪 Testing & Lab Tools
+Multimeter (DMM) • Oscilloscope (Basics) • Board-Level Testing • Hardware Validation • Jira
 
-💻 Programming:
-C Programming,
-Python.
+💻 Programming
+C Programming • Python
 
-🧩 Engineering Practices:
-Technical Documentation,
-QRQC Methodology,
-Continuous Improvement,
-Problem Solving,
-Analytical Thinking.
+🧠 Engineering Practices
 
-🚗 Automotive & Embedded Interests:
-Embedded Testing & Validation,
-Automotive Electronics,
-ECU Testing,
-Sensor-Based Systems,
-Semiconductor Testing Concepts,
-Hardware-Software Integration.
+Technical Documentation • QRQC Methodology • Continuous Improvement • Problem Solving • Analytical Thinking
 
-🧪 Testing Approach:
-Testing methodology includes:
-Writing basic test scenarios for system validation,
-Measuring real-time parameters such as Voltage, Current, and Temperature,
-Identifying edge cases and failure conditions,
-Debugging hardware and communication issues,
-Monitoring system behavior and reliability,
-Supporting data analysis for validation results.
+🚗 Automotive & Embedded Focus
 
-📊 Data Analysis:
-Data Analysis,
-Statistical Analysis,
-Trend & Pattern Analysis,
-Data Interpretation,
-Campaign Analytics,
-Insights Generation.
+Embedded Testing & Validation • ECU Testing • Sensor Systems • Automotive Electronics • Semiconductor Testing • Hardware–Software Integration
 
-🗂️ Data Management:
-Data Collection,
-Data Cleaning,
-Data Validation,
-Data Processing,
-Data Quality Checks,
-Database Management.
+🧪 Testing Approach
+Test scenario design for system validation
+Measurement of Voltage, Current, Temperature
+Edge case & failure condition identification
+Hardware & communication debugging
+System behavior & reliability analysis
+Support for validation data analysis
 
-📈 Visualization & Reporting:
-Dashboard Development,
-Data Visualization,
-Performance Reporting,
-KPI Monitoring.
+📊 Data Analysis Skills
 
-⚙️ Tools & Technologies:
-Microsoft Excel,
-MYSQL,
-Python,
-Power BI,
-Pandas,
-Matplotlib,
-Google Cloud Plateform(GCP).
+Data Cleaning • Data Validation • Statistical Analysis • Trend Analysis • KPI Monitoring • Insights Generation • Dashboarding
 
-🧩 Business & Professional Skills:
-Root Cause Analysis,
-Problem Solving,
-Process Improvement,
-Decision Support,
-Stakeholder Collaboration,
-Communication Skills.
+🗂️ Tools & Technologies
+
+Excel • MySQL • Python • Power BI • Pandas • Matplotlib • Google Cloud Platform (GCP)
+
+🤝 Professional Skills
+
+Root Cause Analysis • Problem Solving • Process Improvement • Decision Support • Team Collaboration • Communication
 
