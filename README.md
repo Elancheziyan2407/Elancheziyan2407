@@ -27,12 +27,12 @@ CAN Protocol Basics.
 Multimeter (DMM),
 Oscilloscope (Basics),
 Hardware Validation,
-Board-Level Testing.
+Board-Level Testing,
+Jira.  
 
 💻 Programming:
 C Programming,
-Python,
-MYSQL.
+Python.
 
 🧩 Engineering Practices:
 Technical Documentation,
@@ -59,39 +59,41 @@ Monitoring system behavior and reliability,
 Supporting data analysis for validation results.
 
 📊 Data Analysis:
-Data Analysis
-Statistical Analysis
-Trend & Pattern Analysis
-Data Interpretation
-Campaign Analytics
-Insights Generation
+Data Analysis,
+Statistical Analysis,
+Trend & Pattern Analysis,
+Data Interpretation,
+Campaign Analytics,
+Insights Generation.
 
 🗂️ Data Management:
-Data Collection
-Data Cleaning
-Data Validation
-Data Processing
-Data Quality Checks
-Database Management
-📈 Visualization & Reporting
-Dashboard Development
-Data Visualization
-Performance Reporting
-KPI Monitoring
+Data Collection,
+Data Cleaning,
+Data Validation,
+Data Processing,
+Data Quality Checks,
+Database Management.
+
+📈 Visualization & Reporting:
+Dashboard Development,
+Data Visualization,
+Performance Reporting,
+KPI Monitoring.
 
 ⚙️ Tools & Technologies:
-Advanced Excel
-SQL
-Python
-Power BI
-Pandas
-Matplotlib
+Advanced Excel,
+MYSQL,
+Python,
+Power BI,
+Pandas,
+Matplotlib,
+Google Cloud Plateform(GCP).
 
 🧩 Business & Professional Skills:
-Root Cause Analysis
-Problem Solving
-Process Improvement
-Decision Support
-Stakeholder Collaboration
-Communication Skills
+Root Cause Analysis,
+Problem Solving,
+Process Improvement,
+Decision Support,
+Stakeholder Collaboration,
+Communication Skills.
 
