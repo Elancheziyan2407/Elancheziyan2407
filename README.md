@@ -1,6 +1,6 @@
 Hi there, I'm Elancheziyan 👋
 
-🎓 EEE Graduate | Embedded Test & Validation | Data Analytics Enthusiast
+🎓 EEE Graduate | Embedded Test & Validation | Data Analysis | Python | C
 
 Passionate about Embedded Systems, Validation Engineering, Debugging, and Data Analysis.
 Interested in Automotive Electronics, Semiconductor Testing, Hardware-Software Integration, and Engineering Analytics.
