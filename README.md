@@ -82,7 +82,7 @@ Performance Reporting,
 KPI Monitoring.
 
 ⚙️ Tools & Technologies:
-Advanced Excel,
+Microsoft Excel,
 MYSQL,
 Python,
 Power BI,
