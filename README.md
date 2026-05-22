@@ -39,7 +39,7 @@ Support for validation data analysis
 
 📊 Data Analysis Skills
 
-Data Cleaning • Data Validation • Statistical Analysis • Trend Analysis • KPI Monitoring • Insights Generation • Dashboarding
+Data Cleaning • Data Validation • Statistical Analysis • Trend Analysis • KPI Monitoring • Insights Generation  • Dashboarding • Finance & Risk
 
 🗂️ Tools & Technologies
 
