@@ -5,7 +5,8 @@ Hi there, I'm Elancheziyan 👋
 Passionate about Embedded Systems, Validation Engineering, Debugging, and Data Analysis.
 Interested in Automotive Electronics, Semiconductor Testing, Hardware-Software Integration, and Engineering Analytics.
 
-🛠️ Core Skills
+🛠️ Core Skills:
+
 🔍 Testing & Validation,
 Functional Testing,
 Validation & Verification (V&V),
@@ -50,7 +51,7 @@ Semiconductor Testing Concepts,
 Hardware-Software Integration.
 
 🧪 Testing Approach:
-My testing methodology includes:
+Testing methodology includes:
 Writing basic test scenarios for system validation,
 Measuring real-time parameters such as Voltage, Current, and Temperature,
 Identifying edge cases and failure conditions,
