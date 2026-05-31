@@ -37,10 +37,6 @@ System behavior & reliability analysis
 Support for validation data analysis
 
 
-🗂️ Tools & Technologies
-
-LabVIEW  • Oscilloscope (DSO) • Multimeter (DMM) • LTspice 
-
 🤝 Professional Skills
 
 Root Cause Analysis • Problem Solving • Process Improvement • Decision Support • Team Collaboration • Communication
