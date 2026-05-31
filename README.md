@@ -1,10 +1,9 @@
 👋 Hi, I'm Elancheziyan
 
-🎓 EEE Graduate | Embedded Test & Validation | Data Analyst
+🎓 EEE Graduate | Hardware Validation | Embedded Systems | Python | C | Linux | Debugging
 
 💡 About Me
-
-Passionate about Embedded Systems, Validation Engineering, Debugging, and Data Analysis.
+Passionate about Embedded Systems, Validation Engineering, and Debugging.
 Interested in Automotive Electronics, Semiconductor Testing, Hardware–Software Integration, and Engineering Analytics.
 
 🛠️ Core Skills
@@ -37,14 +36,10 @@ Hardware & communication debugging
 System behavior & reliability analysis
 Support for validation data analysis
 
-📊 Data Analysis Skills
-
-Data Cleaning • Data Validation • Statistical Analysis • Trend Analysis • KPI Monitoring • Insights Generation  • Dashboarding 
-• Finance & Risk
 
 🗂️ Tools & Technologies
 
-Excel • MySQL • Python • Power BI • Pandas • Matplotlib • Google Cloud Platform (GCP)
+LabVIEW  • Oscilloscope (DSO) • Multimeter (DMM) • LTspice 
 
 🤝 Professional Skills
 
