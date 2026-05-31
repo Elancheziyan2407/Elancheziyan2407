@@ -29,11 +29,12 @@ Technical Documentation • QRQC Methodology • Continuous Improvement • Prob
 Embedded Testing & Validation • ECU Testing • Sensor Systems • Automotive Electronics • Semiconductor Testing • Hardware–Software Integration
 
 🧪 Testing Approach:
+
 Test scenario design for system validation,Measurement of Voltage, Current, Temperature, Edge case & failure condition identification,
 Hardware & communication debugging, System behavior & reliability analysis, Support for validation data analysis
 
 
-🤝 Professional Skills
+🤝 Professional Skills:
 
 Root Cause Analysis • Problem Solving • Process Improvement • Decision Support • Team Collaboration • Communication
 
