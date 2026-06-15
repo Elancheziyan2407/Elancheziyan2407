@@ -1,44 +1,80 @@
 👋 Hi, I'm Elancheziyan
 
-🎓 EEE Graduate | Hardware Validation | Embedded Systems | Python | C | Linux | Debugging
+🎓 Electrical and Electronics Engineering (EEE) Graduate with a strong interest in Hardware Safety, Hardware Validation, Embedded Systems, Embedded Testing & Validation, and Semiconductor Product Validation.
 
-💡 About Me:
+💡 About Me
 
-Passionate about Embedded Systems, Validation Engineering, and Debugging.
-Interested in Automotive Electronics, Semiconductor Testing, Hardware–Software Integration, and Engineering Analytics.
+Passionate about ensuring product safety, quality, reliability, and performance through structured testing, validation, debugging, and root cause analysis. I have hands-on experience in system monitoring, fault analysis, embedded projects, and hardware troubleshooting. I am actively building expertise in hardware safety engineering, embedded technologies, communication protocols, test methodologies, risk analysis, and validation engineering.
 
-🛠️ Core Skills:
+🛠️ Technical Skills
 
-🔍 Testing & Validation:
-Functional Testing • V&V • Test Case Design & Execution • Root Cause Analysis • Debugging • Failure Analysis
+🔍 Testing, Validation & Safety
+• Functional Testing
+• Verification & Validation (V&V)
+• Hardware Validation
+• Safety Validation
+• Test Case Design & Execution
+• Root Cause Analysis (RCA)
+• Failure Analysis
+• Debugging
+• FMEA Basics
+• Risk Assessment Fundamentals
 
-⚙️ Embedded Systems:
+⚙️ Embedded Systems
+• Embedded C
+• Arduino & Microcontrollers
+• Sensor Interfacing
+• Hardware Debugging
+• UART, SPI, I2C
+• CAN Basics
+• ECU Fundamentals
 
-Arduino & Microcontrollers • Embedded C Basics • Sensor Interfacing • Hardware Debugging • UART / SPI / I2C • CAN Basics • ECU Fundamentals
+🧪 Testing & Lab Tools
+• Multimeter (DMM)
+• Oscilloscope (Basic Usage)
+• Board-Level Testing
+• Jira
 
-🧪 Testing & Lab Tools:
+💻 Programming & Tools
+• C Programming
+• Python
+• Linux Fundamentals
+• GitHub
 
-Multimeter (DMM) • Oscilloscope (Basics) • Board-Level Testing • Hardware Validation • Jira
+🧠 Engineering Practices
+• Technical Documentation
+• QRQC Methodology
+• Continuous Improvement
+• Problem Solving
+• Analytical Thinking
 
-💻 Programming:
+🚗 Areas of Interest
+• Hardware Safety Engineering
+• Hardware Validation
+• Embedded Testing & Validation
+• Semiconductor Product Validation
+• Automotive Electronics
+• Functional Safety
+• ECU Testing
+• Sensor Systems
+• Hardware–Software Integration
 
-C Programming • Python • Linux
+🧪 Validation & Safety Approach
+• Designing test scenarios for system validation and safety verification
+• Measuring and analyzing voltage, current, and temperature parameters
+• Identifying edge cases, failure modes, and abnormal operating conditions
+• Supporting risk analysis and fault investigation activities
+• Troubleshooting hardware and communication interfaces
+• Evaluating system behavior, reliability, safety, and performance
+• Supporting validation data analysis and reporting
 
-🧠 Engineering Practices:
+🤝 Professional Skills
+• Root Cause Analysis
+• Problem Solving
+• Team Collaboration
+• Communication
+• Process Improvement
 
-Technical Documentation • QRQC Methodology • Continuous Improvement • Problem Solving • Analytical Thinking
+I am seeking opportunities in Hardware Safety, Hardware Validation, Embedded Testing & Validation, Product Validation, and Semiconductor Validation Engineering, where I can contribute to developing safe, reliable, and high-quality products while continuing to grow as an engineer.
 
-🚗 Automotive & Embedded Focus:
-
-Embedded Testing & Validation • ECU Testing • Sensor Systems • Automotive Electronics • Semiconductor Testing • Hardware–Software Integration
-
-🧪 Testing Approach:
-
-Test scenario design for system validation,Measurement of Voltage, Current, Temperature, Edge case & failure condition identification,
-Hardware & communication debugging, System behavior & reliability analysis, Support for validation data analysis
-
-
-🤝 Professional Skills:
-
-Root Cause Analysis • Problem Solving • Process Improvement • Decision Support • Team Collaboration • Communication
 
