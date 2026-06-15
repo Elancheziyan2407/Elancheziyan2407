@@ -2,13 +2,14 @@
 
 🎓 Electrical and Electronics Engineering (EEE) Graduate with a strong interest in Hardware Safety, Hardware Validation, Embedded Systems, Embedded Testing & Validation, and Semiconductor Product Validation.
 
-💡 About Me
+💡 About Me:
 
 Passionate about ensuring product safety, quality, reliability, and performance through structured testing, validation, debugging, and root cause analysis. I have hands-on experience in system monitoring, fault analysis, embedded projects, and hardware troubleshooting. I am actively building expertise in hardware safety engineering, embedded technologies, communication protocols, test methodologies, risk analysis, and validation engineering.
 
-🛠️ Technical Skills
+🛠️ Technical Skills:
 
-🔍 Testing, Validation & Safety
+🔍 Testing, Validation & Safety:
+
 • Functional Testing
 • Verification & Validation (V&V)
 • Hardware Validation
@@ -20,7 +21,8 @@ Passionate about ensuring product safety, quality, reliability, and performance 
 • FMEA Basics
 • Risk Assessment Fundamentals
 
-⚙️ Embedded Systems
+⚙️ Embedded Systems:
+
 • Embedded C
 • Arduino & Microcontrollers
 • Sensor Interfacing
@@ -29,26 +31,29 @@ Passionate about ensuring product safety, quality, reliability, and performance 
 • CAN Basics
 • ECU Fundamentals
 
-🧪 Testing & Lab Tools
+🧪 Testing & Lab Tools: 
+
 • Multimeter (DMM)
 • Oscilloscope (Basic Usage)
 • Board-Level Testing
 • Jira
 
-💻 Programming & Tools
+💻 Programming & Tools:
+
 • C Programming
 • Python
 • Linux Fundamentals
 • GitHub
 
-🧠 Engineering Practices
+🧠 Engineering Practices:
+
 • Technical Documentation
-• QRQC Methodology
 • Continuous Improvement
 • Problem Solving
 • Analytical Thinking
 
-🚗 Areas of Interest
+🚗 Areas of Interest:
+
 • Hardware Safety Engineering
 • Hardware Validation
 • Embedded Testing & Validation
@@ -59,7 +64,8 @@ Passionate about ensuring product safety, quality, reliability, and performance 
 • Sensor Systems
 • Hardware–Software Integration
 
-🧪 Validation & Safety Approach
+🧪 Validation & Safety Approach:
+
 • Designing test scenarios for system validation and safety verification
 • Measuring and analyzing voltage, current, and temperature parameters
 • Identifying edge cases, failure modes, and abnormal operating conditions
@@ -68,7 +74,8 @@ Passionate about ensuring product safety, quality, reliability, and performance 
 • Evaluating system behavior, reliability, safety, and performance
 • Supporting validation data analysis and reporting
 
-🤝 Professional Skills
+🤝 Professional Skills:
+
 • Root Cause Analysis
 • Problem Solving
 • Team Collaboration
