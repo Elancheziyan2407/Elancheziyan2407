@@ -54,13 +54,11 @@ Passionate about ensuring product safety, quality, reliability, and performance 
 
 🚗 Areas of Interest:
 
-• Hardware Safety Engineering
-• Hardware Validation
 • Embedded Testing & Validation
+• Hardware Validation
 • Semiconductor Product Validation
-• Automotive Electronics
+• Hardware Safety Engineering
 • Functional Safety
-• ECU Testing
 • Sensor Systems
 • Hardware–Software Integration
 
