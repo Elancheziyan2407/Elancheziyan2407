@@ -1,85 +1,104 @@
-👋 Hi, I'm Elancheziyan
+#  Hi, I'm Elancheziyan
 
-🎓 Electrical and Electronics Engineering (EEE) Graduate with a strong interest in Hardware Safety, Hardware Validation, Embedded Systems, Embedded Testing & Validation, and Semiconductor Product Validation.
+ **Electrical and Electronics Engineering (EEE) Graduate** passionate about **Embedded Systems, Hardware Validation, Embedded Testing & Validation, Hardware Safety, and Semiconductor Product Validation**.
 
-💡 About Me:
+I enjoy building embedded projects, debugging hardware, analyzing system behavior, and continuously learning validation methodologies that improve product quality, reliability, safety, and performance. My goal is to contribute to the development of robust and reliable embedded and semiconductor products while growing as a Validation Engineer.
 
-Passionate about ensuring product safety, quality, reliability, and performance through structured testing, validation, debugging, and root cause analysis. I have hands-on experience in system monitoring, fault analysis, embedded projects, and hardware troubleshooting. I am actively building expertise in hardware safety engineering, embedded technologies, communication protocols, test methodologies, risk analysis, and validation engineering.
+---
 
-🛠️ Technical Skills:
+## About Me
 
-🔍 Testing, Validation & Safety:
+*  Passionate about Hardware Validation, Embedded Testing & Validation, and Semiconductor Product Validation
+*  Interested in debugging hardware, failure analysis, and root cause investigation
+*  Continuously expanding my knowledge in embedded systems, communication protocols, validation methodologies, and functional safety
+*  Always eager to learn new technologies and work on real-world engineering challenges
 
-• Functional Testing
-• Verification & Validation (V&V)
-• Hardware Validation
-• Safety Validation
-• Test Case Design & Execution
-• Root Cause Analysis (RCA)
-• Failure Analysis
-• Debugging
-• FMEA Basics
-• Risk Assessment Fundamentals
+---
 
-⚙️ Embedded Systems:
+## Technical Skills
 
-• Embedded C
-• Arduino & Microcontrollers
-• Sensor Interfacing
-• Hardware Debugging
-• UART, SPI, I2C
-• CAN Basics
-• ECU Fundamentals
+###  Testing, Validation & Safety
 
-🧪 Testing & Lab Tools: 
+* Functional Testing
+* Verification & Validation (V&V)
+* Hardware Validation
+* Safety Validation
+* Test Case Design & Execution
+* Root Cause Analysis (RCA)
+* Failure Analysis
+* Debugging
+* Basic understanding of Failure Mode and Effects Analysis (FMEA)
+* Basic understanding of Engineering Risk Assessment
 
-• Multimeter (DMM)
-• Oscilloscope (Basic Usage)
-• Board-Level Testing
-• Jira
+###  Embedded Systems
 
-💻 Programming & Tools:
+* Embedded C
+* Arduino & Microcontrollers
+* Sensor Interfacing
+* Hardware Debugging
+* UART
+* SPI
+* I2C
+* Basic understanding of CAN
+* Basic understanding of Automotive Electronic Control Units (ECUs)
 
-• C Programming
-• Python
-• Linux Fundamentals
-• GitHub
+###  Testing & Lab Tools
 
-🧠 Engineering Practices:
+* Digital Multimeter (DMM)
+* Oscilloscope (Signal Observation & Basic Debugging)
+* Jira
 
-• Technical Documentation
-• Continuous Improvement
-• Problem Solving
-• Analytical Thinking
+###  Programming & Tools
 
-🚗 Areas of Interest:
+* C Programming
+* Python
+* Linux Fundamentals
+* Git & GitHub
 
-• Embedded Testing & Validation
-• Hardware Validation
-• Semiconductor Product Validation
-• Hardware Safety Engineering
-• Functional Safety
-• Sensor Systems
-• Hardware–Software Integration
+###  Engineering Practices
 
-🧪 Validation & Safety Approach:
+* Technical Documentation
+* Continuous Improvement
+* Problem Solving
+* Analytical Thinking
 
-• Designing test scenarios for system validation and safety verification
-• Measuring and analyzing voltage, current, and temperature parameters
-• Identifying edge cases, failure modes, and abnormal operating conditions
-• Supporting risk analysis and fault investigation activities
-• Troubleshooting hardware and communication interfaces
-• Evaluating system behavior, reliability, safety, and performance
-• Supporting validation data analysis and reporting
+---
 
-🤝 Professional Skills:
+##  Currently Learning
 
-• Root Cause Analysis
-• Problem Solving
-• Team Collaboration
-• Communication
-• Process Improvement
+* ARM Cortex-M Architecture
+* RTOS Fundamentals
+* JTAG Debugging
+* Embedded Linux
+* CAN Protocol
+* Functional Safety (ISO 26262 Fundamentals)
+* Semiconductor Product Validation
 
-I am seeking opportunities in Hardware Safety, Hardware Validation, Embedded Testing & Validation, Product Validation, and Semiconductor Validation Engineering, where I can contribute to developing safe, reliable, and high-quality products while continuing to grow as an engineer.
+---
+
+##  Areas of Interest
+
+* Embedded Testing & Validation
+* Hardware Validation
+* Semiconductor Product Validation
+* Hardware Safety Engineering
+* Functional Safety
+* Sensor Systems
+* Hardware–Software Integration
+
+---
+
+##  Professional Skills
+
+* Root Cause Analysis
+* Problem Solving
+* Team Collaboration
+* Technical Communication
+* Technical Documentation
+* Continuous Learning
+
+---
+
+
 
 
